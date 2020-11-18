@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HOtmrT2VPqIuXgb/hnzTetgNw/BTtfjdq0Zgr8/ix1AwXyZuJCwvi25CmcL85aoiXffIEPnQW7c6tGJdcjrlGg==",
+  "dgSpecHash": "6q61+ybt9v7TjdUzKhHQLBWfuSJ17uRspBtYOtMUstoNUbRST3dHdSGjYU2jVf5023oXZar3zGYYF4We8jYlUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ke\\Desktop\\CA\\ComponentAnalysis\\ComponentAnalysis.csproj",
+  "projectFilePath": "C:\\Users\\ke\\CA\\ComponentAnalysis\\ComponentAnalysis.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ke\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.0\\microsoft.aspnetcore.authentication.jwtbearer.5.0.0.nupkg.sha512",
     "C:\\Users\\ke\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.0\\microsoft.aspnetcore.authentication.openidconnect.5.0.0.nupkg.sha512",

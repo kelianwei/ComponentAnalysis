@@ -5906,11 +5906,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ke\\Desktop\\CA\\ComponentAnalysis\\ComponentAnalysis.csproj",
+      "projectUniqueName": "C:\\Users\\ke\\CA\\ComponentAnalysis\\ComponentAnalysis.csproj",
       "projectName": "ComponentAnalysis",
-      "projectPath": "C:\\Users\\ke\\Desktop\\CA\\ComponentAnalysis\\ComponentAnalysis.csproj",
+      "projectPath": "C:\\Users\\ke\\CA\\ComponentAnalysis\\ComponentAnalysis.csproj",
       "packagesPath": "C:\\Users\\ke\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ke\\Desktop\\CA\\ComponentAnalysis\\obj\\",
+      "outputPath": "C:\\Users\\ke\\CA\\ComponentAnalysis\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ke\\AppData\\Roaming\\NuGet\\NuGet.Config",
